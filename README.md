@@ -24,3 +24,4 @@ I most likly won't ever put it on github, but it's a all in one plugin for my cu
 ### Contact
 Website: [Xeoxaz](https://xeoxaz.com/)
 Discord: xeoxaz
+Discord Server: https://discord.gg/jBAhzuhkmk
