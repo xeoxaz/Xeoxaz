@@ -11,8 +11,9 @@ My toolkit includes scanners, exploit frameworks, and cryptographic skills—eac
 
 ## Projects
 
-#### Website
+#### [Website](https://xeoxaz.com/)
 I love to code css, creating front end interfaces are my speciality.
+I took on a new challange of making music, and making a website like myspace/soundcloud!
 
 #### [Orbit](https://github.com/xeoxaz/Orbit_Server)
 A more recent project, Linking client computers to the skynet.
@@ -22,8 +23,6 @@ With a custom web ui.
 I most likly won't ever put it on github, but it's a all in one plugin for my custom minecraft server.
 
 ### Contact
-Website: [Xeoxaz](https://xeoxaz.com/)
-
 Discord: xeoxaz
 
 Discord Server: https://discord.gg/jBAhzuhkmk
