@@ -26,3 +26,5 @@ I most likly won't ever put it on github, but it's a all in one plugin for my cu
 Discord: xeoxaz
 
 Discord Server: https://discord.gg/jBAhzuhkmk
+
+![Xeoxaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeoxaz&theme=tokyonight&show_icons=true)
