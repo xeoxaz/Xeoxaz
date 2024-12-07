@@ -1,8 +1,6 @@
 # Xeoxaz
 ## Readme.md 
 
-![Jessy](https://i.imgur.com/ry1kjJT.png)
-
 #### [Website](https://xeoxaz.com/)
 I love to code css, creating front end interfaces are my speciality.
 I took on a new challange of making music, and making a website like myspace/soundcloud!
