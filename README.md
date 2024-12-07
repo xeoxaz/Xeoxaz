@@ -2,7 +2,7 @@
 ##xeoxaz · Creator 🌌
 ComfyUI ✨ Python 🐍 JavaScript 🌐 Java ☕ PHP 🐘 HTML/CSS 📝 C# 🌟 LUA 📊
 
-![Jessy]([https://github-readme-stats.vercel.app/api?username=xeoxaz&theme=tokyonight&show_icons=true](https://imgur.com/ry1kjJT))
+![Jessy](https://imgur.com/ry1kjJT)
 
 #### [Website](https://xeoxaz.com/)
 I love to code css, creating front end interfaces are my speciality.
