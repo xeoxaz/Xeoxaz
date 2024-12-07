@@ -1,6 +1,7 @@
-#Xeoxaz
-##xeoxaz · Creator 🌌
-ComfyUI ✨ Python 🐍 JavaScript 🌐 Java ☕ PHP 🐘 HTML/CSS 📝 C# 🌟 LUA 📊
+#### Xeoxaz
+### xeoxaz · Creator 🌌
+
+ComfyUI ✨ Master
 
 ![Jessy](https://i.imgur.com/ry1kjJT.png)
 
