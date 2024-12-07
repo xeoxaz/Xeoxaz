@@ -1,7 +1,5 @@
-#### Xeoxaz ################### Detecting Log... ####################
-### xeoxaz · Creator 🌌 ############ Loading Data... #######################
-
-ComfyUI ✨ Master ## Decoding text... ########################
+# Xeoxaz
+## Readme.md 
 
 ![Jessy](https://i.imgur.com/ry1kjJT.png)
 
