@@ -1,4 +1,4 @@
-# Xeoxaz
+# Xeoxaz [![GitHub Org](https://img.shields.io/badge/org-xeoxaz--inc-blueviolet?logo=github&logoColor=white&style=flat-square)](https://github.com/xeoxaz-inc)
 A multi-talented professional. 🥇
 
 ## Follow Xeoxaz
