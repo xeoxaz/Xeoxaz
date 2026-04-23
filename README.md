@@ -16,4 +16,4 @@ I'm a developer passionate about building secure, performant applications and de
 - **Node.js/JavaScript** - Backend development
 - **Web Development** - Full-stack applications with modern UIs
 
-:3
+:3 :)
